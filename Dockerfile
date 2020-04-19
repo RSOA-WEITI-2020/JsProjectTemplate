@@ -6,4 +6,6 @@ ADD *.js ${WORKSPACE}
 
 WORKDIR ${WORKSPACE}
 
+RUN cd ${WORKSPACE} && npm install
+
 CMD ["npm", "start"]
