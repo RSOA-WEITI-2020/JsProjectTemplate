@@ -4,6 +4,7 @@
   "description": "Test js project template repository",
   "main": "hello.js",
   "scripts": {
+    "start": "hello.js",
     "test": "jest"
   },
   "repository": {
