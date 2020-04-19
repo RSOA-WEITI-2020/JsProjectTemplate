@@ -1,0 +1,22 @@
+{
+  "name": "jsprojecttemplate",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Test js project template repository",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSOA-WEITI-2020/JsProjectTemplate.git"
+  },
+  "author": "Robert Piwowarek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RSOA-WEITI-2020/JsProjectTemplate/issues"
+  },
+  "homepage": "https://github.com/RSOA-WEITI-2020/JsProjectTemplate#readme",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
