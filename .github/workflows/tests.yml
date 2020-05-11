@@ -27,4 +27,4 @@ jobs:
         # If true and node_modules folder already exists, this action will be skipped assuming npm install is not required.
           skipIfNodeModulesExists: false # optional, default is false
       - name: npm run tests
-        run: npm test
+        run: npm run test
