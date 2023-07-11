@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/RSOA-WEITI-2020/JsProjectTemplate#readme",
   "dependencies": {
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   }
 }
